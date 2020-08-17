@@ -33,6 +33,7 @@ I will put your name below if I've merged your PR multiple times or if you've su
 - [@mithi](https://github.com/mithi)
 - [@icyJoseph](https://github.com/icyJoseph)
 - [@mikong](https://github.com/mikong)
+- [@bsai-krishna](https://github.com/bsai-krishna)
 
 | ![](./public/img/screenshot4.png) | ![](./public/img/screenshot5.png) |
 |------|-------|
